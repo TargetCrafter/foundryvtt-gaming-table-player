@@ -37,8 +37,8 @@
 		]
 	},
 	"socket": true,
-	"url": "https://github.com/skepickle/foundryvtt-gaming-table-player",
-	"manifest": "https://raw.githubusercontent.com/skepickle/foundryvtt-gaming-table-player/1.0.9/module.json",
-	"download": "https://github.com/skepickle/foundryvtt-gaming-table-player/archive/1.0.9.zip",
-	"readme": "https://raw.githubusercontent.com/skepickle/foundryvtt-gaming-table-player/1.0.9/README.md"
+	"url": "https://github.com/TargetCrafter/foundryvtt-gaming-table-player",
+	"manifest": "https://raw.githubusercontent.com/TargetCrafter/foundryvtt-gaming-table-player/1.0.9/module.json",
+	"download": "https://github.com/TargetCrafter/foundryvtt-gaming-table-player/archive/1.0.9.zip",
+	"readme": "https://raw.githubusercontent.com/TargetCrafter/foundryvtt-gaming-table-player/1.0.9/README.md"
 }
